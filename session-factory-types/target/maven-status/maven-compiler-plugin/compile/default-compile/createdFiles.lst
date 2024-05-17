@@ -1,0 +1,5 @@
+org\hib\Student.class
+org\hib\TestStudentDao.class
+org\hib\SessionFactoryTypesApp.class
+org\hib\SessionUtil.class
+org\hib\StudentDao.class
